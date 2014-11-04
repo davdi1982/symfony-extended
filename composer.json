@@ -1,5 +1,5 @@
 {
-    "name": "davdi/framework-extended-edition",
+    "name": "davdi/symfony-extended-edition",
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Extended Edition\" distribution",
@@ -10,7 +10,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "davdi/framework-extended-edition": "~2.3",
+        "davdi/symfony-extended-edition": "~2.3",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "1.2.*",
         "twig/extensions": "1.0.*",
