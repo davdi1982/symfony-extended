@@ -21,7 +21,7 @@
         "sensio/framework-extra-bundle": "2.3.*",
         "sensio/generator-bundle": "2.3.*",
         "incenteev/composer-parameter-handler": "~2.0",
-        "davdi1982/crud-bundle": "dev-master",
+        "davdi1982/extended-crud-bundle": "dev-master",
         "friendsofsymfony/jsrouting-bundle": "@stable",
         "knplabs/knp-menu-bundle": "~2.0",
         "friendsofsymfony/user-bundle": "2.0.*@dev",
